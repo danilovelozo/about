@@ -24,25 +24,6 @@ sidebar:
     codewars:
     goodreads: 65999782-danilo-velozo # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: #English
-        level: #Native
-
-      - idiom: #French
-        level: #Professional
-
-      - idiom: #Spanish
-        level: #Professional
-
-    interests:
-      - item: #Climbing
-        link:
-
-      - item: #Snowboarding
-        link:
-
-      - item: #Cooking
-        link:
 
 career-profile:
     title: Sobre
@@ -57,8 +38,7 @@ education:
     - degree: Análise e Desenv. de Sistemas 
       university: Universidade Paulista
       time: 2011 - 2014
-      details: |
-      
+      details: 
     - degree: Dissecting Ruby on Rails 5 - Become a Professional Developer
       university: Udemy - Online Courses
       time: ago/2017 - out/2017
@@ -69,7 +49,6 @@ education:
       time: set/2017 - jan/2018
       details: |
         Curso intermediário de React e Redux
-
 experiences:
     - role: Desenvolvedor Ruby on Rails
       time: mar/2015 - jan/2020
@@ -91,7 +70,6 @@ experiences:
       company: Lato Software
       details: |
         Desenvolvimento de projetos utilizando ASP.NET MVC
-
 projects:
     title: 
     intro: 
@@ -115,25 +93,6 @@ projects:
       - title: 
         link: 
         tagline: 
-
-publications:
-    title: 
-    intro: 
-    papers:
-      - title:
-        link: 
-        authors: 
-        conference: 
-
-      - title: 
-        link: 
-        authors: 
-        conference: 
-
-      - title: 
-        link: 
-        authors: 
-        conference:
 
 skills:
     title: Habilidades
