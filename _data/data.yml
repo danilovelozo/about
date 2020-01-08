@@ -33,20 +33,21 @@ career-profile:
 
       Também possuo conhecimento em PHP, Wordpress, HTML/CSS/JS, Angular, entre outras tecnologias.
 education:
-    - degree: Análise e Desenv. de Sistemas 
+    - degree: "Análise e Desenv. de Sistemas"
       university: Universidade Paulista
       time: 2011 - 2014
-      details: 
+      details: |
+        Tecnologia em Análise e Desenvolvimento de Sistemas
     - degree: Dissecting Ruby on Rails 5 - Become a Professional Developer
       university: Udemy - Online Courses
       time: ago/2017 - out/2017
       details: |
         Curso intermediário de Ruby on Rails
-   - degree: The Complete React Web App Developer Course
+    - degree: The Complete React Web App Developer Course
       university: Udemy - Online Courses
       time: set/2017 - jan/2018
       details: |
-        Curso intermediário de React e Redux
+       Curso intermediário de React e Redux
 experiences:
     - role: Lead Developer
       time: 2015 - Present
