@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: true # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -19,7 +19,7 @@ sidebar:
     github: danilovelozo
     gitlab:
     bitbucket:
-    #twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: 65999782-danilo-velozo # Number-Username, e.g. 123456-alandoe
