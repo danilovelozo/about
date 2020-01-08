@@ -102,26 +102,47 @@ publications:
         conference: 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Ruby & Rails
+        level: 78%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: GIT
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Heroku
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: AWS
+        level: 28%
+
+      - name: RSpec
+        level: 65%
+
+      - name: HTML/CSS
+        level: 88%
+
+      - name: Javascript
+        level: 55%
+
+      - name: React
+        level: 25%
+
+      - name: Angular
+        level: 25%
+
+      - name: PHP/Laravel
+        level: 55%
+
+      - name: API Integrations
+        level: 45%
+
+      - name: Elastic Search
+        level: 35%
+
+      - name: Postgres
+        level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    2020 <i class="fas fa-heart"></i> 
