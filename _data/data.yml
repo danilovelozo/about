@@ -15,7 +15,7 @@ sidebar:
     email: velozo.dan@gmail.com
     phone: (11) 9 9549-5904
     website: #danilovelozo.github.io/about/
-    linkedin: danilo-velozo-9b127b3
+    linkedin: danilo-velozo-9b127b39
     github: danilovelozo
     gitlab:
     bitbucket:
@@ -32,30 +32,38 @@ career-profile:
       No momento trabalhando preferencialmente com a linguagem Ruby e framework Rails. 
 
       Também possuo conhecimento em PHP, Wordpress, HTML/CSS/JS, Angular, entre outras tecnologias.
+
+      <i class="fas fa-arrow-alt-circle-down"></i> <a href="https://res.cloudinary.com/drs-solutions/image/upload/v1578522815/personal/danilo_velozo_ignrec.pdf" target="_blank" rel="nofollow">Baixar CV</a>
 education:
     - degree: "Análise e Desenv. de Sistemas"
       university: Universidade Paulista
       time: 2011 - 2014
       details: |
         Tecnologia em Análise e Desenvolvimento de Sistemas
+    - degree: The Complete React Web App Developer Course
+      university: <i class="fas fa-angle-double-right"></i> <a href="https://www.udemy.com/course/react-2nd-edition" target="_blank" rel="nofollow">Udemy - Online Courses</a>
+      time: mar/2017 - mai/2017
+      details: |
+        Curso intermediário de React e Redux
     - degree: Dissecting Ruby on Rails 5 - Become a Professional Developer
-      university: Udemy - Online Courses
+      university: <i class="fas fa-angle-double-right"></i> <a href="https://www.udemy.com/course/professional-rails-5-development-course" target="_blank" rel="nofollow">Udemy - Online Courses</a>
       time: ago/2017 - out/2017
       details: |
+        Curso intermediário de Ruby on Rails
 experiences:
     - role: Desenvolvedor Ruby on Rails
       time: mar/2015 - jan/2020
-      company: Gaveteiro.com.br
+      company: <i class="fas fa-angle-double-right"></i> <a href="http://www.gaveteiro.com.br" target="_blank" rel="nofollow">Gaveteiro.com.br</a>
       details: |
         Desenvolvimento de BRB e-commerce utilizando Ruby e Rails.
     - role: Desenvolvedor Ruby Freelancer
       time: nov/2017 - jan/2018
-      company: Perfarm
+      company: <i class="fas fa-angle-double-right"></i> <a href="http://www.perfarm.com" target="_blank" rel="nofollow">Perfarm</a>
       details: |
         Desenvolvimento de aplicação web para agronegócios utilizando Ruby e Rails.
     - role: Desenvolvedor Web
       time: set/2014 - mar/2015
-      company: Takestore
+      company: <i class="fas fa-angle-double-right"></i> <a href="https://www.facebook.com/Takestore" target="_blank" rel="nofollow">Takestore</a>
       details: |
         Desenvolvimento de plataforma para Marketing Multinível utilizando PHP e Laravel.
 projects:
