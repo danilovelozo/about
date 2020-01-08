@@ -58,31 +58,31 @@ experiences:
       company: Takestore
       details: |
         Desenvolvimento de plataforma para Marketing Multinível utilizando PHP e Laravel.
-projects:
-    title: 
-    intro: 
-    assignments:
-      - title: 
-        link: 
-        tagline: 
+# projects:
+#     title: 
+#     intro: 
+#     assignments:
+#       - title: 
+#         link: 
+#         tagline: 
 
-      - title: 
-        link: 
-        tagline: 
+#       - title: 
+#         link: 
+#         tagline: 
 
-      - title: 
-        link: 
-        tagline: 
+#       - title: 
+#         link: 
+#         tagline: 
 
-      - title: 
-        link: 
-        tagline: 
+#       - title: 
+#         link: 
+#         tagline: 
 
-      - title:
-        link: 
-        tagline: 
+#       - title:
+#         link: 
+#         tagline: 
 
-publications:
+# publications:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
