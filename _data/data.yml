@@ -14,12 +14,12 @@ sidebar:
     # Sidebar links
     email: velozo.dan@gmail.com
     phone: (11) 9 9549-5904
-    website: #blog.webjeda.com #do not add http://
+    website: danilovelozo.github.io/about/
     linkedin: danilo-velozo-9b127b3
     github: danilovelozo
     gitlab:
     bitbucket:
-    twitter: 
+    twitter: ''
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: 65999782-danilo-velozo # Number-Username, e.g. 123456-alandoe
@@ -33,7 +33,6 @@ career-profile:
       No momento trabalhando preferencialmente com a linguagem Ruby e framework Rails. 
 
       Também possuo conhecimento em PHP, Wordpress, HTML/CSS/JS, Angular, entre outras tecnologias.
-
 education:
     - degree: Análise e Desenv. de Sistemas 
       university: Universidade Paulista
