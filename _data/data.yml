@@ -19,122 +19,171 @@ sidebar:
     github: danilovelozo
     gitlab:
     bitbucket:
-    twitter: ''
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: 65999782-danilo-velozo # Number-Username, e.g. 123456-alandoe
 
+    languages:
+      - idiom: 
+        level: 
+
+      - idiom: 
+        level: 
+
+      - idiom: 
+        level: 
+
+    interests:
+      - item: 
+        link:
+
+      - item: 
+        link:
+
+      - item: 
+        link:
 
 career-profile:
-    title: Sobre
+    title: Career Profile
     summary: |
-      Desenvolvedor web com mais de 5 anos de experiência.
-
-      No momento trabalhando preferencialmente com a linguagem Ruby e framework Rails. 
-
-      Também possuo conhecimento em PHP, Wordpress, HTML/CSS/JS, Angular, entre outras tecnologias.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: Análise e Desenv. de Sistemas 
-      university: Universidade Paulista
-      time: 2011 - 2014
-      details: 
-    - degree: Dissecting Ruby on Rails 5 - Become a Professional Developer
-      university: Udemy - Online Courses
-      time: ago/2017 - out/2017
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-        Curso intermediário de Ruby on Rails
-   - degree: The Complete React Web App Developer Course
-      university: Udemy - Online Courses
-      time: set/2017 - jan/2018
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
-        Curso intermediário de React e Redux
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    - role: Desenvolvedor Ruby on Rails
-      time: mar/2015 - jan/2020
-      company: Gaveteiro.com.br
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
-        Desenvolvimento de BRB e-commerce utilizando Ruby e Rails.
-    - role: Desenvolvedor Ruby Freelancer
-      time: nov/2017 - jan/2018
-      company: Perfarm
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
-        Desenvolvimento de aplicação web para agronegócios utilizando Ruby e Rails.
-    - role: Desenvolvedor Web
-      time: set/2014 - mar/2015
-      company: Takestore
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
       details: |
-        Desenvolvimento de plataforma para Marketing Multinível utilizando PHP e Laravel.
-    - role: Analista de Sistemas Jr.
-      time: dez/2013 - abr/2014
-      company: Lato Software
-      details: |
-        Desenvolvimento de projetos utilizando ASP.NET MVC
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
-    title: 
-    intro: 
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: 
-        link: 
-        tagline: 
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: 
-        link:
-        tagline: 
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: 
-        link:
-        tagline: 
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: 
-        link: 
-        tagline: 
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: 
-        link: 
-        tagline: 
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Habilidades
+    title: Skills &amp; Proficiency
 
     toolset:
-      - name: Ruby & Rails
-        level: 78%
+      - name: Python & Django
+        level: 98%
 
-      - name: GIT
-        level: 95%
-
-      - name: Heroku
-        level: 85%
-
-      - name: AWS
-        level: 28%
-
-      - name: RSpec
-        level: 65%
-
-      - name: HTML/CSS
-        level: 88%
-
-      - name: Javascript
-        level: 55%
-
-      - name: React
-        level: 25%
+      - name: Javascript & jQuery
+        level: 98%
 
       - name: Angular
-        level: 25%
+        level: 98%
 
-      - name: PHP/Laravel
-        level: 55%
+      - name: HTML5 & CSS
+        level: 95%
 
-      - name: API Integrations
-        level: 45%
+      - name: Ruby on Rails
+        level: 85%
 
-      - name: Elastic Search
-        level: 35%
-
-      - name: Postgres
-        level: 70%
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
-    2020 <i class="fas fa-heart"></i> 
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
