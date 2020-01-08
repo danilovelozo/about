@@ -33,59 +33,41 @@ career-profile:
 
       Também possuo conhecimento em PHP, Wordpress, HTML/CSS/JS, Angular, entre outras tecnologias.
 education:
-    - degree: Análise e Desenv. de Sistemas
+    - degree: Análise e Desenv. de Sistemas 
       university: Universidade Paulista
       time: 2011 - 2014
       details: 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Dissecting Ruby on Rails 5 - Become a Professional Developer
+      university: Udemy - Online Courses
+      time: ago/2017 - out/2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Curso intermediário de Ruby on Rails
+   - degree: The Complete React Web App Developer Course
+      university: Udemy - Online Courses
+      time: set/2017 - jan/2018
+      details: |
+        Curso intermediário de React e Redux
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Desenvolvedor Ruby on Rails
+      time: mar/2015 - jan/2020
+      company: Gaveteiro.com.br
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Desenvolvimento de BRB e-commerce utilizando Ruby e Rails.
+    - role: Desenvolvedor Ruby Freelancer
+      time: nov/2017 - jan/2018
+      company: Perfarm
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Desenvolvimento de aplicação web para agronegócios utilizando Ruby e Rails.
+    - role: Desenvolvedor Web
+      time: set/2014 - mar/2015
+      company: Takestore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Desenvolvimento de plataforma para Marketing Multinível utilizando PHP e Laravel.
+    - role: Analista de Sistemas Jr.
+      time: dez/2013 - abr/2014
+      company: Lato Software
+      details: |
+        Desenvolvimento de projetos utilizando ASP.NET MVC
 projects:
     title: Projects
     intro: >
