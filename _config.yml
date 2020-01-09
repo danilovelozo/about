@@ -3,9 +3,9 @@
 # Site Settings
 title: Danilo Velozo | Desenvolvedor Web
 url: 'http://www.danilovelozo.github.io'
-baseurl: '/about' #change it according to your repository name
+baseurl: '/sobre' #change it according to your repository name
 description: |
-  Desenvolvedor web com mais de 7 anos de experiência.
+  Desenvolvedor Web com mais de 7 anos de experiência.
 
   No momento trabalhando preferencialmente com a linguagem Ruby e framework Rails. 
 
