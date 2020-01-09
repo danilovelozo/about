@@ -5,11 +5,11 @@ title: Danilo Velozo | Desenvolvedor Web
 url: 'http://www.danilovelozo.github.io'
 baseurl: '/about' #change it according to your repository name
 description: |
-  Desenvolvedor web com mais de 5 anos de experiência.
+  Desenvolvedor web com mais de 7 anos de experiência.
 
   No momento trabalhando preferencialmente com a linguagem Ruby e framework Rails. 
 
-  Também possuo conhecimento em PHP, Wordpress, HTML/CSS/JS, Angular, entre outras tecnologias.
+  Também possuo conhecimentos em PHP, Wordpress, HTML/CSS/JS, React, AngularJS, entre outras tecnologias.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic ruby
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
