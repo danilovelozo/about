@@ -15,7 +15,7 @@ sidebar:
     email: velozo.dan@gmail.com
     phone: (11) 9 9549-5904
     website: #danilovelozo.github.io/about/
-    linkedin: danilo-velozo-9b127b39
+    linkedin: danilovelozo
     github: danilovelozo
     gitlab:
     bitbucket:
@@ -90,23 +90,13 @@ projects:
         tagline: 
 
 publications:
-    title: 
+    title: Apresentações
     intro: 
     papers:
-      - title: 
-        link: 
-        authors: 
-        conference: 
-
-      - title: 
-        link: 
-        authors: 
-        conference: 
-
-      - title: 
-        link: 
-        authors:
-        conference: 
+      - title: Chafurdando na Lama
+        link: "https://speakerdeck.com/danvelozo/chafurdando-na-lama"
+        authors: Danilo Velozo
+        conference: Gaveteiro.com.br - Tech Talk, 2016
 
 skills:
     title: Habilidades
